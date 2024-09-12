@@ -1,3 +1,7 @@
+My code especialy for make playlist spotify tranding song Indonesia in year, my data is from 2011 - 2023 from gpt so my code can make 14 playlist in one runing
+
+
+
 English
 1. Change the client_id and client_secret in the .env file using the code you get from Spotify Developer/Spotipy Developer.
 2. For more information, you can check the Spotipy documentation on their website: https://spotipy.readthedocs.io/en/2.24.0/ – all functions are detailed there.
