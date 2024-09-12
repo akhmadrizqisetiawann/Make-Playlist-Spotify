@@ -3,6 +3,7 @@ English
 2. For more information, you can check the Spotipy documentation on their website: https://spotipy.readthedocs.io/en/2.24.0/ – all functions are detailed there.
 3. Feel free to ask me on Instagram. If I’m not busy, I can help with your questions or issues.
 
+When this code your runing, can aoutomaticly make file token.txt for save token or autenthical code from spotify with function for key every your call api or varible (sp)
 
 Indonesia
 1. Ubah client_id dan client_secret di file .env menggunakan kode yang kamu dapatkan dari Spotify Developer/Spotipy Developer.
